@@ -18,8 +18,8 @@
 }
     
 .bicicletas-listas li {
-    min-width: 280px;
     flex: 1;
+    min-width: 280px;
 }
 
 .bicicletas-listas a{
